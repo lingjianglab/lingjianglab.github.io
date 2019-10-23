@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ling Jiang Lab Webapage!!!
 
 You can use the [editor on GitHub](https://github.com/lingjianglab/lingstudio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
